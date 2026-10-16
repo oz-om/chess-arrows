@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chess Arrows</string>
+    <string name="start">ابدأ</string>
+    <string name="hint">منح إذن "عرض فوق التطبيقات" ثم ابدأ</string>
+    <string name="draw">رسم</string>
+    <string name="select">تحديد</string>
+    <string name="color">لون</string>
+    <string name="undo">تراجع</string>
+    <string name="clear">مسح</string>
+    <string name="close">طي</string>
+</resources>
